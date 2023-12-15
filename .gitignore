@@ -1,0 +1,5 @@
+.idea/
+src/.my_pgpass
+src/**/__pycache__/
+src/.pg_service.conf
+.DS_store
